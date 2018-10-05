@@ -3,7 +3,7 @@
 This project utilised the architecture for solving the DQN coding exercise as outlined in the [`solution/Deep_Q_Network_Solution.ipynd`](https://github.com/udacity/deep-reinforcement-learning/blob/master/dqn/solution/Deep_Q_Network_Solution.ipynb) solution.
 
 ## State and Action Space
-e simulation contains a single agent that navigates a large environment.  At each time step, it has four actions at its disposal:
+The simulation contains a single agent that navigates a large environment.  At each time step, it has four actions at its disposal:
 - `0` - walk forward 
 - `1` - walk backward
 - `2` - turn left
